@@ -1,1 +1,1 @@
-my first Java script
+this is my first javascript
